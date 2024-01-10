@@ -1,0 +1,24 @@
+.container{
+    /*display: flex;
+    background-color: aquamarine;*/
+}
+
+.user-play-area{
+    background-color: rgb(147, 173, 195);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.selection{
+    /*background-color: rgb(125, 81, 64);*/
+}
+
+#score{
+    background-color: antiquewhite;
+}
+
+#final-result{
+    background-color: bisque;
+}
